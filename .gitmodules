@@ -1,6 +1,10 @@
 [submodule "client"]
 	path = client
-	url = ./client/
+	url = https://github.com/Ben-PH/treasure-client.git
 [submodule "shared"]
 	path = shared
-	url = ./shared/
+	url = https://github.com/Ben-PH/treasure-shared.git
+
+[submodule "server"]
+	path = server
+	url = https://github.com/Ben-PH/treasure-server.git
